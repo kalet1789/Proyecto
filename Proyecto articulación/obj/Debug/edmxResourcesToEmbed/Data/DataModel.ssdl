@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProyectoArticulaciomModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'ProyectoArticulaciom.dbo.Inventario' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="Inventario">
+    <Key>
+      <PropertyRef Name="ProductId" />
+      <PropertyRef Name="ProductName" />
+      <PropertyRef Name="Quantity" />
+      <PropertyRef Name="PurchasePrice" />
+      <PropertyRef Name="SellingPrice" />
+    </Key>
+    <Property Name="ProductId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+    <Property Name="PurchasePrice" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="SellingPrice" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ProyectoArticulaciomModelStoreContainer">
+    <EntitySet Name="Inventario" EntityType="Self.Inventario" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Inventario].[ProductId] AS [ProductId], 
+    [Inventario].[ProductName] AS [ProductName], 
+    [Inventario].[Quantity] AS [Quantity], 
+    [Inventario].[PurchasePrice] AS [PurchasePrice], 
+    [Inventario].[SellingPrice] AS [SellingPrice]
+    FROM [dbo].[Inventario] AS [Inventario]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

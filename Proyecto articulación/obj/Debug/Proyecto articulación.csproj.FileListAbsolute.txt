@@ -1,0 +1,17 @@
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\bin\Debug\Proyecto articulación.exe.config
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\bin\Debug\Proyecto articulación.exe
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\bin\Debug\Proyecto articulación.pdb
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto articulación.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto_articulación.Forms.Inventario.FormInventario.resources
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto_articulación.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto articulación.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto articulación.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto articulación.exe
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto articulación.pdb
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto_articulación.Forms.Inventario.FormInventarioAgregar.resources
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto_articulación.Forms.Inventario.FormInventarioEditar.resources
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\source\repos\Proyecto articulación\Proyecto articulación\obj\Debug\Proyecto.3E9BB1C0.Up2Date
